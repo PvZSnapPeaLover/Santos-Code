@@ -2,7 +2,8 @@
 8301 Vex Robotics Code
 
 ![Static Badge](https://img.shields.io/badge/Status-In%20Development-brightgreen)
-[![a](https://img.shields.io/badge/Status-In%20Development-green)](www.google.com)
+
+
 
 This repository serves as a clear and concise documentation of the 8301E team's coding related issues, releases, achievements, and events that might be relevant for future reference and history.
 
